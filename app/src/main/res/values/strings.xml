@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RockScissorsPaper</string>
+
+    <string name="title_player1">Player 1</string>
+    <string name="title_player2">Player 2</string>
+
+    <string name="start_button">Start!</string>
+
+    <string name="player_one_wins">Player 1 wins!</string>
+    <string name="player_two_wins">Player 2 wins!</string>
+    <string name="no_one_win">No one win!</string>
+
+    <string name="current_score">Score 0/0</string>
+
+
+</resources>
